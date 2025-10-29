@@ -59,7 +59,7 @@ public class Data : MonoBehaviour
         descendCap = 100f;
         descendDistance = 30f;
         maxCollectablePerRound = 5;
-        sideMoveSpeed = 2f;
+        sideMoveSpeed = 4f;
         climbSpeed = 5f;
         points = 0;
 

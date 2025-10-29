@@ -6,27 +6,11 @@ using UnityEngine;
 using UnityEngine.UI;
 
 //--------------------- TODO ---------------------//
-// In Progress:
-
-//  Check if we can replace the moving background to parallax background
-/// <summary>
-///  probable solution for the background, use tiling and parallax together, 
-///  make the tree 4 tims bigger (by creating a one prefab made of 4 trees)
-///  that the last script that GPT gave you and look for preformense issues) 
-/// </summary>
-
-// Fix names and check unnecessary references in the scripts
-
-// Look for hard coded values and replace them with variables in Data.cs
-// (in InteractableEntity.cs and Player.cs)
-
-// Check if we still need Tags for the insects (we can use the enum instead)
-
 // Add larve, red Ant, cocons and lightning bug
 
+// make insects to be unlockable with money to earn more points, descend deeper and 
 //  optional
 //  keep the "oh no" text when colliding with wasp
-//  Add a warning massage before starting the game to be aware of the wasps
 //  Add a top tree that the player can tell that we reached home.
 //  Add spider web when you collect an insect and try to attach it to the branches when passing by them
 
